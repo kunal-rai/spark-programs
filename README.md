@@ -1,1 +1,1 @@
-# Scala basic programs
+# Spark Scala basic programs
